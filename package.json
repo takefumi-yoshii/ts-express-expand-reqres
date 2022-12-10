@@ -14,7 +14,7 @@
     "connect-redis": "^3.4.1",
     "cookie-parser": "^1.4.4",
     "ejs": "^2.6.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-session": "^1.16.0",
     "http-errors": "^1.7.2",
     "redis-server": "^1.2.2"
